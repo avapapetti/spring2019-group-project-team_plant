@@ -1,5 +1,5 @@
 =========
-Plant_Quiz
+Plant Quiz
 =========
 
 
@@ -13,6 +13,8 @@ Have you ever found yourself on Mother's Day frantically googling which plant is
 
 Look no further! This is the plant quiz to stop your frantic googling and worrying! We will ask you questions, and all you have to do is answer them truthfully! We will give you your top 5 results out of 134 popular house plants based on your answers.
 
+Goals
+=====
 
 Note
 ====
