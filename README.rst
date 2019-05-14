@@ -20,9 +20,10 @@ Goals
 - Identify plants from a database which best match with user responses
 - Display characteristics of final plant selected
 
-This is an example of the output
+Example Output
 ====
-![Image description] (https://github.com/biof309/spring2019-group-project-team_plant/blob/master/photos/Screen%20Shot%202019-05-14%20at%203.38.51%20PM.png)
+![Image description](https://github.com/biof309/spring2019-group-project-team_plant/blob/master/photos/Screen%20Shot%202019-05-14%20at%203.38.51%20PM.png)
+
 Note
 ====
 
