@@ -26,13 +26,6 @@ Options for Taking the Quiz
 - PlantProject_Final.ipynb: Jupyter notebook than can be run cell-by-cell
 - PlantProject_Final_slides.ipynb: Can be run in slideshow mode slide-by-slide
 
-Options for Taking the Quiz
-=====
-Run one of the scripts located in src/myproject:
-*PlantProject_run.py: Can be run directly with PyCharm (Visual Studio has issues with input function)
-*PlantProject_Final.ipynb: Jupyter notebook than can be run cell-by-cell
-*PlantProject_Final_slides.ipynb: Can be run in slideshow mode slide-by-slide
-
 Example Output
 ====
 .. image:: https://github.com/biof309/spring2019-group-project-team_plant/blob/master/photos/Screen%20Shot%202019-05-14%20at%203.38.51%20PM.png
