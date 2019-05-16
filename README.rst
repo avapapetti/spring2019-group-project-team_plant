@@ -21,7 +21,7 @@ Goals
 - Display characteristics of final plant selected
 
 Options for Taking the Quiz
-===========================
+====
 Run one of the scripts located in src/myproject:
 - PlantProject_run.py: Can be run directly with PyCharm (Visual Studio has issues with input function)
 - PlantProject_Final.ipynb: Jupyter notebook than can be run cell-by-cell
