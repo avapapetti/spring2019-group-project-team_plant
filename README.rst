@@ -22,9 +22,9 @@ Goals
 
 Goals
 =====
-- Create a quiz that identifies which house plant best matches an individual's preferences
-- Create a graphical user interface (GUI) that can be used to obtain user responses
-- Identify plants from a database which best match with user responses
+- PlantProject_run.py: Can be run directly with PyCharm (Visual Studio has issues with input function)
+- PlantProject_Final.ipynb: Jupyter notebook than can be run cell-by-cell
+- PlantProject_Final_slides.ipynb: Can be run in slideshow mode slide-by-slide
 - Display characteristics of final plant selected
 
 Options for Taking the Quiz
