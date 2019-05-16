@@ -20,6 +20,13 @@ Goals
 - Identify plants from a database which best match with user responses
 - Display characteristics of final plant selected
 
+Goals
+=====
+- Create a quiz that identifies which house plant best matches an individual's preferences
+- Create a graphical user interface (GUI) that can be used to obtain user responses
+- Identify plants from a database which best match with user responses
+- Display characteristics of final plant selected
+
 Options for Taking the Quiz
 ====
 Run one of the scripts located in src/myproject:
