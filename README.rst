@@ -11,7 +11,7 @@ Description
 
 Have you ever found yourself on Mother's Day frantically googling which plant is best for your mom, even though your mom is not like most moms out there?? Or are you a college student wishing you could buy a small plant that can survive your windowless dorm room and lack of attention? Or do you just need a really beautiful flowering plant to make your neighbors jealous when they come over for dinner this Thursday?
 
-Look no further! This is the plant quiz to stop your frantic googling and worrying! We will ask you questions, and all you have to do is answer them truthfully! We will give you your top 5 results out of 134 popular house plants based on your answers.
+Look no further! This is the plant quiz to stop your frantic googling and worrying! We will ask you questions, and all you have to do is answer them truthfully! We will give you your top 5 results out of 134 popular house plants based on your answers, and then you have the option to find out more about them (we hope you will!).
 
 Goals
 =====
@@ -19,6 +19,13 @@ Goals
 - Create a graphical user interface (GUI) that can be used to obtain user responses
 - Identify plants from a database which best match with user responses
 - Display characteristics of final plant selected
+
+Options for Taking the Quiz
+===========================
+Run one of the scripts located in src/myproject:
+- PlantProject_run.py: Can be run directly with PyCharm (Visual Studio has issues with input function)
+- PlantProject_Final.ipynb: Jupyter notebook than can be run cell-by-cell
+- PlantProject_Final_slides.ipynb: Can be run in slideshow mode slide-by-slide
 
 Example Output
 ====
