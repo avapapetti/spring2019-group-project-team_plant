@@ -20,7 +20,7 @@ Goals
 - Identify plants from a database which best match with user responses
 - Display characteristics of final plant selected
 
-Goals
+Options for Taking the Quiz
 =====
 - PlantProject_run.py: Can be run directly with PyCharm (Visual Studio has issues with input function)
 - PlantProject_Final.ipynb: Jupyter notebook than can be run cell-by-cell
