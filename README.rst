@@ -23,9 +23,9 @@ Goals
 Options for Taking the Quiz
 ====
 Run one of the scripts located in src/myproject:
-- PlantProject_run.py: Can be run directly with PyCharm (Visual Studio has issues with input function)
-- PlantProject_Final.ipynb: Jupyter notebook than can be run cell-by-cell
-- PlantProject_Final_slides.ipynb: Can be run in slideshow mode slide-by-slide
+* PlantProject_run.py: Can be run directly with PyCharm (Visual Studio has issues with input function)
+* PlantProject_Final.ipynb: Jupyter notebook than can be run cell-by-cell
+* PlantProject_Final_slides.ipynb: Can be run in slideshow mode slide-by-slide
 
 Example Output
 ====
