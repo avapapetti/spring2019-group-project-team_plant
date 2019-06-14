@@ -23,7 +23,7 @@ Goals
 Options for Taking the Quiz
 =====
 - PlantProject_run.py: Can be run directly with PyCharm (Visual Studio has issues with input function)
-- PlantProject_Final.ipynb: Jupyter notebook than can be run cell-by-cell
+- PlantProject_Final.ipynb: Jupyter notebook that can be run cell-by-cell
 - PlantProject_Final_slides.ipynb: Can be run in slideshow mode slide-by-slide
 
 Example Output
